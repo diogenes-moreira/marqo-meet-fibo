@@ -21,7 +21,7 @@ This WordPress plugin integrates Marqo Search with FiboSearch (formerly Ajax Sea
 
 ## Installation
 
-1. Upload the `marqo-fibo-integration` folder to the `/wp-content/plugins/` directory
+1. Upload the `marqo-fibo-integration` clone the project folder to the `/wp-content/plugins/` directory
 2. Activate the plugin through the 'Plugins' menu in WordPress
 3. Go to WooCommerce > Marqo Search to configure the plugin
 
